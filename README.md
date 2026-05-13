@@ -4,6 +4,7 @@
 Data Analytics Engineering, MS
 - George Mason University
 - Expected May 2027
+
 Mathematics, BS
 - George Mason University
 - August 2020 - May 2024
