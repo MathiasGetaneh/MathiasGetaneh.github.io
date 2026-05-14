@@ -16,6 +16,7 @@ Percentile Changes in the Housing Price Index (September - December 2025)
 - Created queries using MariaDB and Amazon Aurora to gain insight on dataset
 - Prepared a poster using Microsoft PowerPoint to discuss dataset and insights gained
 - Created an IEEE-format paper on the Housing Price Index with insights from dataset analysis
+- https://github.com/MathiasGetaneh/MathiasGetaneh.github.io/tree/main/HPIPercentiles
 
 Amount of Added Sugar in Starbucks Drinks (October - December 2025)
 - Analyzed a drink dataset on Starbucks using bootstrapped ANOVA in R
