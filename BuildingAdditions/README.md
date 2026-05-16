@@ -16,9 +16,9 @@ When using the test set, the following prediction matrix was generated in R. Not
 
 It was found that about 36.11% of predictions were incorrect for this model. The accuracy of each area was found below.
 
-![image](https://github.com/MathiasGetaneh/MathiasGetaneh.github.io/blob/main/BuildingAdditions/images/sensitivity.png)
+![image](/BuildingAdditions/images/sensitivity.png)
 
-![image](https://github.com/MathiasGetaneh/MathiasGetaneh.github.io/blob/main/BuildingAdditions/images/specificAccuracy.png)
+![image](/BuildingAdditions/images/specificAccuracy.png)
 
 It appears that the most accurate areas were pools, with the least accurate being aprons. This misclassification of aprons likely occured due to the aprons being patios specifically for commercial areas.
 
