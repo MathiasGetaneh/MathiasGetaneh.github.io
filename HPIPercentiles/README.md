@@ -8,3 +8,5 @@ Data was collected in a CSV format. However, some data used commas in the format
 Data was first processed in R to make a secondary CSV file. This data was put into Python. Athena was also used.
 
 FIXME: Need to clarify more.
+
+[Back to Home](https://mathiasgetaneh.github.io/)

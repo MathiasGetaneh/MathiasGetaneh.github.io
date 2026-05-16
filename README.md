@@ -18,18 +18,22 @@
 - Minor in Computer Science
 
 ### Projects
-#### Percentile Changes in the Housing Price Index (September - December 2025)
+#### [Building Additions in Fairfax County](https://mathiasgetaneh.github.io/BuildingAdditions) (April - May 2026)
+- Cleaned data using R
+- Built Random Forest Model to classify building additions using R
+- Created a presentation regarding classification of Building Additions usinng Microsoft Powerpoint
+
+#### [Northern Virginia Traveling Salesperson Problem](https://mathiasgetaneh.github.io/NorthernVirginiaTSP/) (April - May 2026)
+- Turned a dataset on city distances into a distance matrix using R
+- Solved Traveling Salesperson Problem in MATLAB using integer linear programming and distance matrix
+- Created visualization of Traveling Salesperson Problem using Folium in Python
+
+#### [Percentile Changes in the Housing Price Index](https://mathiasgetaneh.github.io/HPIPercentiles/) (September - December 2025)
 - Cleaned a dataset containing information on the Housing Price Index using Cygwin64
 - Analyzed dataset to answer research questions using Python and R
 - Created queries using MariaDB and Amazon Aurora to gain insight on dataset
 - Prepared a poster using Microsoft PowerPoint to discuss dataset and insights gained
 - Created an IEEE-format paper on the Housing Price Index with insights from dataset analysis
-- [Project](https://mathiasgetaneh.github.io/HPIPercentiles/)
-
-#### Amount of Added Sugar in Starbucks Drinks (October - December 2025)
-- Analyzed a drink dataset on Starbucks using bootstrapped ANOVA in R
-- Prepared visual aids using Microsoft PowerPoint to discuss added sugar in Starbucks drinks
-- Presented an information session on added sugars and Starbucks using visual aids
 
 #### Image Blurring (April - May 2024)
 - Created an image blurring algorithm using MATLAB
