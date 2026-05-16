@@ -12,7 +12,7 @@ Data was collected in a CSV format. This data was cleaned in R to remove buildin
 ## Findings
 When using the test set, the following prediction matrix was generated in R. Note that rows represent the actual identity of the row, with columns representing what the random forest predicted was the correct classification.
 
-![image](https://github.com/MathiasGetaneh/MathiasGetaneh.github.io/blob/main/BuildingAdditions/images/RFMatrix.png)
+![image](/BuildingAdditions/images/RFMatrix.png)
 
 It was found that about 36.11% of predictions were incorrect for this model. The accuracy of each area was found below.
 
