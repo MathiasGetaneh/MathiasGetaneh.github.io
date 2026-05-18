@@ -30,4 +30,5 @@ It was found that about 36.11% of predictions were incorrect for this model. The
 It appears that the most accurate areas were pools, with the least accurate being aprons. This misclassification of aprons likely occured due to the aprons being patios specifically for commercial areas.
 
 [See the Code](https://github.com/MathiasGetaneh/MathiasGetaneh.github.io/tree/main/BuildingAdditions)
+
 [Back to Home](https://mathiasgetaneh.github.io/)
