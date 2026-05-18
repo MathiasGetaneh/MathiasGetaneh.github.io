@@ -30,6 +30,7 @@ The optimal route, when starting and ending in Fairfax, was found to be in the f
 - Leesburg, VA
 - Chantilly, VA
 - Fairfax, VA
+
 This leads to a distance of 190.921 miles to traverse all cities. A visualization of the path is below.
 
 ![image](/NorthernVirginiaTSP/images/TSP.png)
