@@ -7,7 +7,6 @@ library(rpart.plot)
 library(ggplot2)
 #Library for making random forests
 library(ranger)
-setwd("~/GMU/Semester 10 (Spring 2026)/STAT662/Final Project")
 buildings = read.csv("Building_Additions_-6591872933771953326.csv")
 buildings = buildings[,c(4,3,2,5:6,1)]
 summary(buildings)
