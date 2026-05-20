@@ -17,6 +17,9 @@
 - Concentration in Data Science
 - Minor in Computer Science
 
+### Certifications
+IBM Data Science Certification
+
 ### Projects
 #### [Building Additions in Fairfax County](https://mathiasgetaneh.github.io/BuildingAdditions) (April - May 2026)
 - Cleaned data using R
