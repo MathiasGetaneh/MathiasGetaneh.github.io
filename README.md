@@ -38,11 +38,6 @@ IBM Data Science Certification
 - Prepared a poster using Microsoft PowerPoint to discuss dataset and insights gained
 - Created an IEEE-format paper on the Housing Price Index with insights from dataset analysis
 
-#### Image Blurring (April - May 2024)
-- Created an image blurring algorithm using MATLAB
-- Prepared visual aids using Microsoft PowerPoint to discuss blurring and its uses
-- Presented an information session on blurring using visual aids
-
 ### Related Experience
 #### VA-NC Alliance Summer Research, Intern Charlottesville, VA (June - August 2022)
 - Created a program in Python simulating nonlinear multi-wave interactions using NumPy, SciPy, and Matplotlib
