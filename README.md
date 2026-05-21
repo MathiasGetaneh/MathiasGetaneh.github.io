@@ -39,7 +39,7 @@ IBM Data Science Certification
 - Created an IEEE-format paper on the Housing Price Index with insights from dataset analysis
 
 ### Related Experience
-#### VA-NC Alliance Summer Research, Intern Charlottesville, VA (June - August 2022)
+#### Intern, VA-NC Alliance Summer Research (June - August 2022)
 - Created a program in Python simulating nonlinear multi-wave interactions using NumPy, SciPy, and Matplotlib
 - Prepared visual aids in Microsoft PowerPoint to explain nonlinear wave interactions to a general academic audience
 - Presented an information session with Q&A section on nonlinear wave interactions using visual aids
