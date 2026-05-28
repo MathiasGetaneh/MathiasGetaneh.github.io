@@ -18,7 +18,7 @@
 - Minor in Computer Science
 
 ### Certifications
-IBM Data Science Certification
+- IBM Data Science Certification
 
 ### Projects
 #### [Building Additions in Fairfax County](https://mathiasgetaneh.github.io/BuildingAdditions) (April - May 2026)
