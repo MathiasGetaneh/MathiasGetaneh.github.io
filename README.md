@@ -22,9 +22,9 @@ IBM Data Science Certification
 
 ### Projects
 #### [Building Additions in Fairfax County](https://mathiasgetaneh.github.io/BuildingAdditions) (April - May 2026)
-- Cleaned data using R
+- Cleaned building additions data using R
 - Built Random Forest Model to classify building additions using R
-- Created a presentation regarding classification of Building Additions usinng Microsoft Powerpoint
+- Created a presentation regarding classification of Building Additions using Microsoft Powerpoint
 
 #### [Northern Virginia Traveling Salesperson Problem](https://mathiasgetaneh.github.io/NorthernVirginiaTSP/) (April - May 2026)
 - Turned a dataset on city distances into a distance matrix using R
