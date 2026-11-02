@@ -1,5 +1,9 @@
 title: Mathias Getaneh
 logo: images/SmallProfilePicture.jpg
-description: Graduate Student and aspiring Data Scientist. <br><br> <a href="linkedin.com/in/mathias-getaneh-3078072a2">View My LinkedIn Profile</a>
+description: Graduate Student and aspiring Data Scientist.
+social_links:
+  - provider: linkedin
+    url: https://linkedin.com/in/mathias-getaneh-3078072a2
+  
 #show_downloads: true
 theme: jekyll-theme-minimal

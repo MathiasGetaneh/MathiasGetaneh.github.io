@@ -1,10 +1,10 @@
-# Data Scientist
+# Data Analyst
 
 ### Technical Skills
 - Python
+- R
 - SQL
 - MATLAB
-- R
 - AWS
 
 ### Education
@@ -22,24 +22,24 @@
 
 ### Projects
 #### [Building Additions in Fairfax County](https://mathiasgetaneh.github.io/BuildingAdditions) (April - May 2026)
-- Cleaned building additions data using R
-- Built Random Forest Model to classify building additions using R
+- Cleaned a dataset with 344607 records using R
+- Built a Random Forest Model to classify building additions using R and ranger package
 - Created a presentation regarding classification of Building Additions using Microsoft Powerpoint
 
 #### [Northern Virginia Traveling Salesperson Problem](https://mathiasgetaneh.github.io/NorthernVirginiaTSP/) (April - May 2026)
-- Turned a dataset on city distances into a distance matrix using R
+- Filtered a dataset regarding city distances with 14 million records into a distance matrix of 10 cities using R
 - Solved Traveling Salesperson Problem in MATLAB using integer linear programming and distance matrix
 - Created visualization of Traveling Salesperson Problem using Folium in Python
 
 #### [Percentile Changes in the Housing Price Index](https://mathiasgetaneh.github.io/HPIPercentiles/) (September - December 2025)
-- Cleaned a dataset containing information on the Housing Price Index using Cygwin64
-- Analyzed dataset to answer research questions using Python and R
+- Cleaned a dataset with 131520 rows containing information on the Housing Price Index using Cygwin64
+- Analyzed dataset to answer research questions using ggplot2 in R, Pyplot and Seaborn in Python
 - Created queries using MariaDB and Amazon Aurora to gain insight on dataset
 - Prepared a poster using Microsoft PowerPoint to discuss dataset and insights gained
 - Created an IEEE-format paper on the Housing Price Index with insights from dataset analysis
 
 ### Related Experience
 #### Intern, VA-NC Alliance Summer Research (June - August 2022)
-- Created a program in Python simulating nonlinear multi-wave interactions using NumPy, SciPy, and Matplotlib
+- Created a program in Python simulating nonlinear multi-wave interactions using NumPy, SciPy, and Matplotlib with up to 100 waves simulated simultaneously
 - Prepared visual aids in Microsoft PowerPoint to explain nonlinear wave interactions to a general academic audience
 - Presented an information session with Q&A section on nonlinear wave interactions using visual aids
